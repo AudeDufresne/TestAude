@@ -1,0 +1,21 @@
+Contents of /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TestIOS-Prefix.pch
+-x
+objective-c
+-arch
+armv7s
+-std=gnu99
+-fobjc-arc
+-fpascal-strings
+-O0
+-DDEBUG=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+-g
+-miphoneos-version-min=5.1
+-I/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/include
+-I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-F/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos
+arm-apple-darwin12.5.0
+"4.2.1 Compatible Apple LLVM 5.1 (clang-503.0.38)"
+SDK_PRODUCT_BUILD_VERSION=11D167
+11D167

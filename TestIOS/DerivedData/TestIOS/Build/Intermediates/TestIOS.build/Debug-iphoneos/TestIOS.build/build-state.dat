@@ -1,0 +1,388 @@
+TTestIOS
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Info.plist /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TestIOS-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/ResourceRules.plist
+cProcessPCH /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/PrecompiledHeaders/TestIOS-Prefix-calmlonqzhsyqvctxsyenywvmbmz/TestIOS-Prefix.pch.pch TestIOS/TestIOS-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/main.o /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/TrucAUdeAppDelegate.o /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TrucAUdeAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/TestIOS normal armv7s
+cGenerateDSYMFile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app.dSYM /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/TestIOS
+cCopyPNGFile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default.png TestIOS/Default.png
+cCopyStringsFile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/en.lproj/InfoPlist.strings TestIOS/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default@2x.png TestIOS/Default@2x.png
+cCopyPNGFile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default-568h@2x.png TestIOS/Default-568h@2x.png
+cProcessProductPackaging /Users/Dufresne7/Library/MobileDevice/Provisioning\ Profiles/7137A0C0-EC32-4EDB-99E4-4EF160182F3C.mobileprovision /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/embedded.mobileprovision
+cTouch /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/TestIOS.xcent
+cCodeSign /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c000000005321137F0000000000000094
+t1394676607
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c000000005321137F0000000000000096
+t1394676607
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c000000005321137F000000000000036B
+t1394676607
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053211380000000000000019E
+t1394676608
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005321138300000000004D7BC0
+t1394676611
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000532113850000000000A90C10
+t1394676613
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005321138C0000000002759920
+t1394676620
+s41261344
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/PrecompiledHeaders/TestIOS-Prefix-calmlonqzhsyqvctxsyenywvmbmz/TestIOS-Prefix.pch.pch
+t1395263083
+s5308236
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/TestIOS.LinkFileList
+c00000000532A066A0000000000000155
+t1395263082
+s341
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/TrucAUdeAppDelegate.o
+t1395263084
+s63604
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/main.o
+t1395263084
+s3440
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/TestIOS.xcent
+t1395263085
+s422
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app
+t1395263085
+s374
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app.dSYM
+t2
+s0
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default-568h@2x.png
+t1395263085
+s7014
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default.png
+t1395263085
+s3688
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default@2x.png
+t1395263085
+s6316
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Info.plist
+t1395263082
+s1279
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/PkgInfo
+t1395263082
+s8
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/ResourceRules.plist
+t1395263082
+s150
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/TestIOS
+t1395263085
+s59020
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/embedded.mobileprovision
+t1395263085
+s7496
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/en.lproj/InfoPlist.strings
+t1395263085
+s42
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TestIOS-Info.plist
+c000000005325F37000000000000005B7
+t1394996080
+s1463
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TestIOS-Prefix.pch
+c000000005325F2D7000000000000013D
+t1394995927
+s317
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TrucAUdeAppDelegate.m
+c000000005325F2D700000000000008A5
+t1394995927
+s2213
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/en.lproj/InfoPlist.strings
+c000000005325F2D7000000000000002D
+t1394995927
+s45
+
+N/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/main.m
+c000000005325F2D7000000000000016D
+t1394995927
+s365
+
+N/Users/Dufresne7/Library/MobileDevice/Provisioning Profiles/7137A0C0-EC32-4EDB-99E4-4EF160182F3C.mobileprovision
+c0000000053234B8C0000000000001D48
+t1394822028
+s7496
+
+CBuild AST from /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TrucAUdeAppDelegate.m
+r0
+
+CBuild AST from /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3065d0ea3ddab841^8d2aefea3ddab841^---0#1#1#--18"Check dependencies36"23A55EA5-9370-483B-8FF9-6A8287DBC5CA-
+
+CCodeSign /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app
+s416955885.429015
+e416955887.052219
+r0
+xCodeSign
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app
+o/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app: CSSMERR_TP_NOT_TRUSTED
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CodeSign DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app70"CodeSign DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app053578ed3ddab841^10770def3ddab841^-187"/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app: CSSMERR_TP_NOT_TRUSTEDCommand /usr/bin/codesign failed with exit code 11(21%IDEActivityLogMessage2@49"Command /usr/bin/codesign failed with exit code 1-416955887#18446744073709551615#0#-2#--15"Code Sign Error--0#0#1#-19%DVTDocumentLocation3@129"file://localhost/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/0000000000000000^1333"CodeSign DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app    cd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    Using code signing identity "iPhone Developer: Aude Dufresne (LDJYV8BUSG)" and provisioning profile "iOS Team Provisioning Profile: *" (7137A0C0-EC32-4EDB-99E4-4EF160182F3C)    /usr/bin/codesign --force --sign 0F11E9247CC3A2FEC5EB5A95C1C498FBF64EDF38 --resource-rules=/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/ResourceRules.plist --entitlements /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/TestIOS.xcent /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app36"336C1902-8FA8-4516-AC2E-4753A165E99C-
+b1C591A11-A5E1-413A-A39F-A20B0353E7E0
+
+CCompileC DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/TrucAUdeAppDelegate.o /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TrucAUdeAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416955884.091226
+e416955884.319480
+r1
+xCompileC
+xDerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/TrucAUdeAppDelegate.o
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TrucAUdeAppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TrucAUdeAppDelegate.m
+d/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TrucAUdeAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TrucAUdeAppDelegate.m235"CompileC DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/TrucAUdeAppDelegate.o TestIOS/TrucAUdeAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler2a7317ec3ddab841^d6c951ec3ddab841^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TrucAUdeAppDelegate.m0000000000000000^3471"CompileC DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/TrucAUdeAppDelegate.o TestIOS/TrucAUdeAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.1 -I/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/TestIOS.hmap -I/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/DerivedSources/armv7s -I/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/DerivedSources -F/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos -include /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/PrecompiledHeaders/TestIOS-Prefix-calmlonqzhsyqvctxsyenywvmbmz/TestIOS-Prefix.pch -MMD -MT dependencies -MF /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/TrucAUdeAppDelegate.d --serialize-diagnostics /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/TrucAUdeAppDelegate.dia -c /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TrucAUdeAppDelegate.m -o /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/TrucAUdeAppDelegate.o36"5F30B479-C85B-41E1-9C62-77C7533B2A6F-
+b1C591A11-A5E1-413A-A39F-A20B0353E7E0
+
+CCompileC DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/main.o /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416955884.091222
+e416955884.312912
+r1
+xCompileC
+xDerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/main.o
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/main.m
+d/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TrucAUdeAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/main.m205"CompileC DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/main.o TestIOS/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler507217ec3ddab841^651b50ec3ddab841^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/main.m0000000000000000^3381"CompileC DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/main.o TestIOS/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.1 -I/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/TestIOS.hmap -I/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/DerivedSources/armv7s -I/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/DerivedSources -F/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos -include /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/PrecompiledHeaders/TestIOS-Prefix-calmlonqzhsyqvctxsyenywvmbmz/TestIOS-Prefix.pch -MMD -MT dependencies -MF /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/main.dia -c /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/main.m -o /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/main.o36"BD99DC48-430C-4D2E-885E-055D4D2DA47F-
+b1C591A11-A5E1-413A-A39F-A20B0353E7E0
+
+CCopyPNGFile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default-568h@2x.png TestIOS/Default-568h@2x.png
+s416955885.136126
+e416955885.397797
+r1
+xCopyPNGFile
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default-568h@2x.png
+xTestIOS/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"CopyPNGFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default-568h@2x.png TestIOS/Default-568h@2x.png121"CopyPNGFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default-568h@2x.png TestIOS/Default-568h@2x.png0bef22ed3ddab841^9dd665ed3ddab841^---0#0#1#-19%DVTDocumentLocation2@94"file://localhost/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/Default-568h@2x.png0000000000000000^891"CopyPNGFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default-568h@2x.png TestIOS/Default-568h@2x.png    cd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/Default-568h@2x.png /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default-568h@2x.png36"D68CC1E4-5DB4-46F8-A04B-1B97A76C0782-
+b1C591A11-A5E1-413A-A39F-A20B0353E7E0
+
+CCopyPNGFile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default.png TestIOS/Default.png
+s416955885.135911
+e416955885.348285
+r1
+xCopyPNGFile
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default.png
+xTestIOS/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"CopyPNGFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default.png TestIOS/Default.png105"CopyPNGFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default.png TestIOS/Default.pngdae622ed3ddab841^992959ed3ddab841^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/Default.png0000000000000000^859"CopyPNGFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default.png TestIOS/Default.png    cd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/Default.png /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default.png36"F8F68FF2-4E31-4069-A6CA-0E54F1BB4DCD-
+b1C591A11-A5E1-413A-A39F-A20B0353E7E0
+
+CCopyPNGFile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default@2x.png TestIOS/Default@2x.png
+s416955885.135935
+e416955885.381796
+r1
+xCopyPNGFile
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default@2x.png
+xTestIOS/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CopyPNGFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default@2x.png TestIOS/Default@2x.png111"CopyPNGFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default@2x.png TestIOS/Default@2x.pngc9e622ed3ddab841^c7bd61ed3ddab841^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/Default@2x.png0000000000000000^871"CopyPNGFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default@2x.png TestIOS/Default@2x.png    cd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/Default@2x.png /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Default@2x.png36"0D0042DC-AB67-4F62-B29D-436C5EBCE8D1-
+b1C591A11-A5E1-413A-A39F-A20B0353E7E0
+
+CCopyStringsFile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/en.lproj/InfoPlist.strings TestIOS/en.lproj/InfoPlist.strings
+s416955885.135927
+e416955885.178077
+r1
+xCopyStringsFile
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/en.lproj/InfoPlist.strings
+xTestIOS/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy TestIOS/en.lproj/InfoPlist.strings139"CopyStringsFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/en.lproj/InfoPlist.strings TestIOS/en.lproj/InfoPlist.stringsdae622ed3ddab841^85962ded3ddab841^---0#0#1#-19%DVTDocumentLocation2@101"file://localhost/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/en.lproj/InfoPlist.strings0000000000000000^836"CopyStringsFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/en.lproj/InfoPlist.strings TestIOS/en.lproj/InfoPlist.strings    cd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/en.lproj -- TestIOS/en.lproj/InfoPlist.strings36"1CC6B429-C501-4EA8-A731-0A474F320285-
+b1C591A11-A5E1-413A-A39F-A20B0353E7E0
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/ResourceRules.plist
+s416955882.959620
+e416955882.983414
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xDerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/ResourceRules.plist214"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/ResourceRules.plist7fbef5ea3ddab841^6ac1fbea3ddab841^---0#0#1#-19%DVTDocumentLocation2@148"file://localhost/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/ResourceRules.plist0038acbddeffdf42^1008"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/ResourceRules.plist    cd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app36"FB0F6163-4179-4529-BCFD-65360B11B67B-
+b1C591A11-A5E1-413A-A39F-A20B0353E7E0
+
+CGenerateDSYMFile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app.dSYM /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/TestIOS
+s416955885.081384
+e416955885.127630
+r1
+xGenerateDSYMFile
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app.dSYM
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/TestIOS
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Generate /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app.dSYM153"GenerateDSYMFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app.dSYM DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/TestIOS36e714ed3ddab841^9fac20ed3ddab841^---0#0#1#-19%DVTDocumentLocation2@133"file://localhost/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app.dSYM0038acbddeffdf42^942"GenerateDSYMFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app.dSYM DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/TestIOS    cd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/TestIOS -o /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app.dSYM36"6789A2FF-11EC-441D-89C7-C20F85DC3211-
+b1C591A11-A5E1-413A-A39F-A20B0353E7E0
+
+CLd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/TestIOS normal armv7s
+s416955884.329264
+e416955885.065144
+r1
+xLd
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/TestIOS
+xnormal
+xarmv7s
+d/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/TestIOS.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/crt1.3.1.o
+d/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/main.o
+d/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/TrucAUdeAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphoneos.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Link /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/TestIOS86"Ld DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/TestIOS normal armv7sb35e54ec3ddab841^dead10ed3ddab841^---0#0#1#--1666"Ld DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/TestIOS normal armv7s    cd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS    export IPHONEOS_DEPLOYMENT_TARGET=5.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos -F/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos -filelist /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/TestIOS.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=5.1 -framework UIKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/Objects-normal/armv7s/TestIOS_dependency_info.dat -o /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/TestIOS36"33874A12-2359-46CA-AA26-E68E2956B9AD-
+b1C591A11-A5E1-413A-A39F-A20B0353E7E0
+
+CProcessInfoPlistFile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Info.plist /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TestIOS-Info.plist
+s416955882.947300
+e416955882.951114
+r1
+xProcessInfoPlistFile
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Info.plist
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TestIOS-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Process /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TestIOS-Info.plist120"ProcessInfoPlistFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Info.plist TestIOS/TestIOS-Info.plistbb9cf2ea3ddab841^9a7cf3ea3ddab841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TestIOS-Info.plist0000000000000000^1141"ProcessInfoPlistFile DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Info.plist TestIOS/TestIOS-Info.plist    cd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TestIOS-Info.plist -genpkginfo /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/ResourceRules.plist -o /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/Info.plist36"E71D7923-4C0B-4930-9F06-DB5B84627F71-
+b1C591A11-A5E1-413A-A39F-A20B0353E7E0
+
+CProcessPCH /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/PrecompiledHeaders/TestIOS-Prefix-calmlonqzhsyqvctxsyenywvmbmz/TestIOS-Prefix.pch.pch TestIOS/TestIOS-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416955882.993496
+e416955884.082670
+r1
+xProcessPCH
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/PrecompiledHeaders/TestIOS-Prefix-calmlonqzhsyqvctxsyenywvmbmz/TestIOS-Prefix.pch.pch
+xTestIOS/TestIOS-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TestIOS-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile TestIOS/TestIOS-Prefix.pch233"ProcessPCH DerivedData/TestIOS/Build/Intermediates/PrecompiledHeaders/TestIOS-Prefix-calmlonqzhsyqvctxsyenywvmbmz/TestIOS-Prefix.pch.pch TestIOS/TestIOS-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilercc7dfeea3ddab841^3d2b15ec3ddab841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TestIOS-Prefix.pch0000000000000000^3284"ProcessPCH DerivedData/TestIOS/Build/Intermediates/PrecompiledHeaders/TestIOS-Prefix-calmlonqzhsyqvctxsyenywvmbmz/TestIOS-Prefix.pch.pch TestIOS/TestIOS-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.1 -I/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/TestIOS.hmap -I/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/DerivedSources/armv7s -I/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/DerivedSources -F/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/PrecompiledHeaders/TestIOS-Prefix-calmlonqzhsyqvctxsyenywvmbmz/TestIOS-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/PrecompiledHeaders/TestIOS-Prefix-calmlonqzhsyqvctxsyenywvmbmz/TestIOS-Prefix.pch.d -c /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/TestIOS/TestIOS-Prefix.pch -o /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/PrecompiledHeaders/TestIOS-Prefix-calmlonqzhsyqvctxsyenywvmbmz/TestIOS-Prefix.pch.pch36"72A8A629-80B5-493E-BE80-3D6EFB390ECA-
+b1C591A11-A5E1-413A-A39F-A20B0353E7E0
+
+CProcessPCH /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Index/PrecompiledHeaders/TestIOS-Prefix-dajgmfzsikenjteofcwieokncerr_ast/TestIOS-Prefix.pch.pch TestIOS/TestIOS-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/TestIOS.xcent
+s416955885.418435
+e416955885.421355
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/TestIOS.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection241"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/TestIOS.xcent241"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/TestIOS.xcent83346bed3ddab841^e8de6bed3ddab841^---0#0#1#-19%DVTDocumentLocation2@163"file://localhost/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/TestIOS.xcent0038acbddeffdf42^1022"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/TestIOS.xcent    cd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Intermediates/TestIOS.build/Debug-iphoneos/TestIOS.build/TestIOS.xcent36"11FF988F-7F03-413B-8B6E-07FED2DB1F26-
+b1C591A11-A5E1-413A-A39F-A20B0353E7E0
+
+CProcessProductPackaging /Users/Dufresne7/Library/MobileDevice/Provisioning\ Profiles/7137A0C0-EC32-4EDB-99E4-4EF160182F3C.mobileprovision /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/embedded.mobileprovision
+s416955885.406217
+e416955885.408560
+r1
+xProcessProductPackaging
+x/Users/Dufresne7/Library/MobileDevice/Provisioning Profiles/7137A0C0-EC32-4EDB-99E4-4EF160182F3C.mobileprovision
+x/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection224"ProcessProductPackaging /Users/Dufresne7/Library/MobileDevice/Provisioning\ Profiles/7137A0C0-EC32-4EDB-99E4-4EF160182F3C.mobileprovision DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/embedded.mobileprovision224"ProcessProductPackaging /Users/Dufresne7/Library/MobileDevice/Provisioning\ Profiles/7137A0C0-EC32-4EDB-99E4-4EF160182F3C.mobileprovision DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/embedded.mobileprovision371668ed3ddab841^0b9868ed3ddab841^---0#0#1#-19%DVTDocumentLocation2@153"file://localhost/Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/embedded.mobileprovision0038acbddeffdf42^962"ProcessProductPackaging /Users/Dufresne7/Library/MobileDevice/Provisioning\ Profiles/7137A0C0-EC32-4EDB-99E4-4EF160182F3C.mobileprovision DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/embedded.mobileprovision    cd /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Python.framework/Versions/Current/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-productPackagingUtility /Users/Dufresne7/Library/MobileDevice/Provisioning\ Profiles/7137A0C0-EC32-4EDB-99E4-4EF160182F3C.mobileprovision -o /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app/embedded.mobileprovision36"AE0B9967-CF69-4804-A997-048B575BB1AC-
+b1C591A11-A5E1-413A-A39F-A20B0353E7E0
+
+CTouch /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app
+r0
+
+CValidate /Users/Dufresne7/Desktop/XCodeAude/TestIOS/TestIOS/DerivedData/TestIOS/Build/Products/Debug-iphoneos/TestIOS.app
+r0
+
